@@ -1,0 +1,11 @@
+{
+    "name": "GitHub Training workflow template",
+    "description": "This is a custom workflow template.",
+    "iconName": "test-template-icon",
+    "categories": [
+        "javascript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
